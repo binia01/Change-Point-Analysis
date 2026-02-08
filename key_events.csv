@@ -1,19 +1,26 @@
 date,event,category,description,expected_impact
+1988-11-30,OPEC Quota Agreement (1988),OPEC,"OPEC adopted a production ceiling of 18.5 million barrels/day to halt the price slide from the 1986 crash",Price stabilisation
 1990-08-02,Iraqi Invasion of Kuwait,Conflict,"Iraq invaded Kuwait triggering the Gulf War, disrupting oil supply from the region",Price increase
 1991-01-17,Gulf War Begins (Operation Desert Storm),Conflict,"US-led coalition launched military operations against Iraq, causing oil supply uncertainty",Price spike then decline
 1997-07-02,Asian Financial Crisis,Economic,"Thai baht collapsed triggering a region-wide financial crisis that reduced Asian oil demand sharply",Price decrease
-1998-12-01,OPEC Production Cuts (1998),OPEC,"OPEC agreed to significant production cuts to stabilise collapsing oil prices below $10/barrel",Price increase
+1998-03-23,OPEC Production Cut Agreement (1998),OPEC,"OPEC agreed to cut production by 1.245 million barrels/day alongside non-OPEC producers to stop price freefall",Price increase
+1999-03-23,OPEC Second Production Cut (1999),OPEC,"OPEC deepened cuts by a further 1.716 million barrels/day driving prices back above $15",Price increase
 2001-09-11,September 11 Attacks,Conflict,"Terrorist attacks in the US caused global economic uncertainty and initial demand shock",Price decrease
 2003-03-20,US Invasion of Iraq,Conflict,"US-led coalition invaded Iraq removing a major oil producer from full capacity",Price increase
+2005-08-29,Hurricane Katrina,Natural Disaster,"Category 5 hurricane struck the US Gulf Coast disrupting ~27% of US oil production and refining capacity",Price spike
 2008-07-11,Global Oil Price Peak,Economic,"Oil prices hit all-time high near $147/barrel driven by speculation and strong global demand",Price peak
 2008-09-15,Lehman Brothers Collapse / Global Financial Crisis,Economic,"Lehman Brothers filed for bankruptcy triggering the worst financial crisis since the Great Depression; oil demand collapsed",Price crash
+2008-12-17,OPEC Record Production Cut (4.2 mb/d),OPEC,"OPEC announced its largest ever single cut of 4.2 million barrels/day in response to the financial crisis",Price stabilisation
 2011-02-17,Libyan Civil War,Conflict,"Uprising against Gaddafi regime disrupted Libyan oil production (~1.6 million barrels/day lost)",Price increase
-2014-06-01,Oil Price Crash (US Shale Boom + OPEC Strategy),OPEC,"OPEC decided not to cut production despite US shale oil boom flooding the market with supply",Price crash
+2014-06-01,Oil Price Crash Begins (Shale Boom),Economic,"Rapid US shale oil production growth created a global supply glut before OPEC's November decision",Price decrease
+2014-11-27,OPEC Maintains Output (Nov 2014),OPEC,"OPEC decided NOT to cut production at its Vienna meeting signalling a market-share strategy against US shale",Price crash
 2015-07-14,Iran Nuclear Deal (JCPOA),Political,"Iran nuclear agreement reached lifting sanctions and allowing Iranian oil back into global markets",Price decrease
 2016-11-30,OPEC-Russia Production Cut Agreement (OPEC+),OPEC,"Historic OPEC and non-OPEC agreement to cut production by 1.8 million barrels/day",Price increase
 2018-05-08,US Withdrawal from Iran Nuclear Deal,Political,"US reimposed sanctions on Iran removing ~1.5 million barrels/day from global supply",Price increase
-2020-03-06,Saudi-Russia Oil Price War,OPEC,"Saudi Arabia and Russia failed to agree on production cuts leading Saudi Arabia to flood the market",Price crash
+2020-03-06,Saudi-Russia Oil Price War / OPEC+ Collapse,OPEC,"Saudi Arabia and Russia failed to agree on production cuts; Saudi Arabia slashed prices and boosted output",Price crash
 2020-03-11,COVID-19 Pandemic Declared,Economic,"WHO declared COVID-19 a global pandemic causing unprecedented collapse in oil demand",Price crash
 2020-04-12,OPEC+ Historic Production Cut (9.7 mb/d),OPEC,"OPEC+ agreed to the largest ever production cut of 9.7 million barrels/day to stabilise markets",Price recovery
+2021-07-18,OPEC+ Gradual Output Increase Agreement,OPEC,"OPEC+ agreed to gradually increase production by 400000 barrels/day monthly from August 2021",Price moderation
 2022-02-24,Russia-Ukraine War,Conflict,"Russia invaded Ukraine triggering Western sanctions and fears of Russian oil supply disruption",Price spike
 2022-03-08,US Ban on Russian Oil Imports,Political,"US announced a ban on all Russian oil imports as part of sanctions over Ukraine invasion",Price spike
+2022-10-05,OPEC+ Major Production Cut (2 mb/d),OPEC,"OPEC+ agreed to cut production targets by 2 million barrels/day despite US pressure to increase supply",Price increase
