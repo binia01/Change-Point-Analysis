@@ -1,10 +1,3 @@
-"""Bayesian change point detection models with error handling.
-
-Wraps PyMC model construction and MCMC sampling in try/except blocks so
-that common failures (empty data, non-finite values, sampler divergences)
-produce clear, actionable error messages rather than opaque tracebacks.
-"""
-
 import logging
 import pymc as pm
 import numpy as np
