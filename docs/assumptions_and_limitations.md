@@ -31,7 +31,7 @@
 
 ### Event Association Assumptions
 
-10. **Event list completeness:** Our curated list of 18 events is representative but not exhaustive. Other events (e.g., technology changes, regulatory shifts, natural disasters) may also influence prices.
+10. **Event list completeness:** Our curated list of 25 events is representative but not exhaustive. Other events (e.g., technology changes, regulatory shifts) may also influence prices.
 
 11. **Event dating precision:** We assign single dates to events that may have unfolded over days or weeks. The actual market impact may spread across a window around the listed date.
 
