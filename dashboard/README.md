@@ -87,3 +87,24 @@ Opens at `http://localhost:3000` and proxies API requests to the Flask backend o
 - **Event Analysis** — horizontal bar chart of 30-day price impact per event; clickable event table that highlights the event on the price chart
 - **Change Points** — single and multi change point Bayesian model results with R-hat convergence indicators
 - **Filters** — date range selectors and event category dropdown; responsive layout for desktop/tablet/mobile
+
+## Responsive Design
+
+The dashboard uses CSS flexbox with responsive breakpoints to adapt across devices:
+
+| Breakpoint | Layout |
+|---|---|
+| **≥ 1024px** (desktop) | Full-width charts, 3+ column KPI row, side-by-side panels |
+| **768–1023px** (tablet) | KPI row wraps to 2 columns, charts stack vertically |
+| **< 768px** (mobile) | Single-column layout, compact cards, horizontally scrollable tables |
+
+All interactive controls (date range pickers, category filter, reset button) remain visible and functional at every breakpoint. Charts use Recharts' `ResponsiveContainer` to resize automatically.
+
+## Screenshots
+
+See `reports/screenshots/` for dashboard screenshots at various screen sizes. To capture new screenshots:
+
+1. Start the dashboard (see Quick Start above)
+2. Open `http://localhost:3000` in a browser
+3. Use browser DevTools device toolbar to simulate different screen sizes
+4. Capture each tab (Overview, Events, Change Points) at desktop and mobile widths
